@@ -1,2 +1,2 @@
-# Unity2DGame
-My First Unity 2D Game
+# Unity2DTutorial 
+My First Unity 2D Attempt at a Game
